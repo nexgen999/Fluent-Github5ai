@@ -1,0 +1,35 @@
+{
+  "githubUsername": "VOTRE_PSEUDO_GITHUB",
+  "githubRepo": "NOM_DU_DEPOT_DEFAULT",
+  "displayName": "VOTRE_NOM",
+  "bio": "VOTRE_BIO_COURTE",
+  "siteTitle": "TITRE_DE_L_ONGLET",
+  "footerText": "TEXTE_BAS_DE_PAGE",
+  "socials": {
+    "twitter": "https://twitter.com/votre_profil",
+    "x": "https://x.com/votre_profil",
+    "tiktok": "https://tiktok.com/@votre_profil",
+    "discord": "Lien_ou_ID",
+    "email": "votre@email.com",
+    "github": "https://github.com/votre_profil"
+  },
+  "filesDirectory": "NOM_DU_DOSSIER_PAR_DEFAUT",
+  "sources": [
+    {
+       "id": "source-1",
+       "name": "Dossier Local",
+       "owner": "votre-pseudo",
+       "repo": "votre-depot",
+       "path": "dossier-des-fichiers"
+    },
+    {
+       "id": "logos",
+       "name": "Logos Collection",
+       "owner": "hacan359",
+       "repo": "tonkatsu-collections",
+       "path": "logos"
+    }
+  ],
+  "favicon": "favicon.png",
+  "theme": "dim"
+}
